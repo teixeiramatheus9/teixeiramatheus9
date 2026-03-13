@@ -146,11 +146,13 @@ Git / CI/CD      ████████████████████░
 
 ## 🏆 GitHub Stats
 
+> 💡 A maior parte do meu trabalho acontece em repositórios privados — os stats públicos não refletem minha atividade real.
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teixeiramatheus9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=a0a0b0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teixeiramatheus9&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=a0a0b0"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiramatheus9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0b0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiramatheus9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0b0"/>
 
 <br/><br/>
 
