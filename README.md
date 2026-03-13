@@ -144,25 +144,41 @@ Git / CI/CD      ████████████████████░
 
 ---
 
-## 🏆 GitHub Stats
+## 🌳 Skill Tree
 
-> 💡 A maior parte do meu trabalho acontece em repositórios privados — os stats públicos não refletem minha atividade real.
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teixeiramatheus9&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=a0a0b0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiramatheus9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0b0"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teixeiramatheus9&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teixeiramatheus9&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
+```
+╔══════════════════════════════════════════════════════╗
+║                  ⚔️  SKILL TREE                      ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  🟦 Languages                                        ║
+║  ├─ TypeScript   ████████████████████░░░   80 / 100  ║
+║  ├─ JavaScript   ████████████████████░░░   80 / 100  ║
+║  ├─ Elixir       █████████████░░░░░░░░░░   55 / 100  ║
+║  └─ HTML / CSS   ████████████████████░░░   78 / 100  ║
+║                                                      ║
+║  🟩 Frontend                                         ║
+║  ├─ Angular      ███████████████████░░░░   78 / 100  ║
+║  ├─ React        ████████████████░░░░░░░   65 / 100  ║
+║  ├─ Next.js      ████████████████░░░░░░░   65 / 100  ║
+║  └─ Tailwind     ████████████████░░░░░░░   66 / 100  ║
+║                                                      ║
+║  🟥 Backend                                          ║
+║  ├─ NestJS       ███████████████████░░░░   75 / 100  ║
+║  ├─ Node.js      ████████████████░░░░░░░   68 / 100  ║
+║  └─ Phoenix      █████████████░░░░░░░░░░   55 / 100  ║
+║                                                      ║
+║  🟨 Database                                         ║
+║  ├─ MySQL        ███████████████████░░░░   78 / 100  ║
+║  └─ PostgreSQL   ███████████████████░░░░   75 / 100  ║
+║                                                      ║
+║  🟪 DevOps & Tools                                   ║
+║  ├─ Docker       ████████████████░░░░░░░   62 / 100  ║
+║  ├─ Git / CI-CD  ████████████████████░░░   78 / 100  ║
+║  └─ GCP / AWS    ███████████████░░░░░░░░   60 / 100  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ---
 
