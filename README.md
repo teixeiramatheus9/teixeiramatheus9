@@ -144,28 +144,20 @@ Git / CI/CD      ████████████████████░
 
 ---
 
-## ⚔️ GitHub Stats
+## ⚔️ Skill Tree
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teixeiramatheus9&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teixeiramatheus9&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-
+  <img src="./skill-tree.svg" alt="Skill Tree" width="100%"/>
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=teixeiramatheus9&color=00d4ff&style=for-the-badge&label=VISITANTES"/>
+<img src="https://komarev.com/ghpvc/?username=teixeiramatheus9&color=00ff88&style=for-the-badge&label=VISITANTES"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
