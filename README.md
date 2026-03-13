@@ -148,11 +148,11 @@ Git / CI/CD      ████████████████████░
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoestoquero&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teixeiramatheus9&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoestoquero&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teixeiramatheus9&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -162,7 +162,7 @@ Git / CI/CD      ████████████████████░
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=joaoestoquero&color=00d4ff&style=for-the-badge&label=VISITANTES"/>
+<img src="https://komarev.com/ghpvc/?username=teixeiramatheus9&color=00d4ff&style=for-the-badge&label=VISITANTES"/>
 
 </div>
 
