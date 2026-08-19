@@ -24,6 +24,7 @@ const matheus: Developer = {
   stack:    [
     "TypeScript", "Angular", "NestJS",
     "Next.js", "React", "Elixir", "Phoenix",
+    "Electron",
   ],
   currentQuest: "Leveling up — one commit at a time",
 };
@@ -72,6 +73,19 @@ const matheus: Developer = {
 | **IA**             | Integração com backend Python                  | ✅ Deployed  |
 | **Infra**          | Docker, pnpm                                   | ✅ Deployed  |
 
+<br/>
+
+### 🎈 Claude Manager — Gerente de Sessões do Claude Code
+> App desktop open source: bolha flutuante sempre-por-cima que monitora sessões do Claude Code, com voz de gerente por IA, notificações por voz, integração com o terminal e modo economia de tokens. **[Ver no GitHub ↗](https://github.com/teixeiramatheus9/claude-manager)**
+
+| Área             | Tecnologia                                            | Status        |
+| ---------------- | ----------------------------------------------------- | ------------- |
+| **Desktop**      | Electron, Node.js (ESM), WebAudio API                 | ✅ Released   |
+| **Integrações**  | Claude Code hooks, unix sockets, X11 (wmctrl/xdotool) | ✅ Released   |
+| **IA & Voz**     | Claude CLI (Haiku), Piper TTS neural                  | ✅ Released   |
+| **Testes**       | Vitest — 87 testes unitários (TDD)                    | ✅ Released   |
+| **Distribuição** | electron-builder — AppImage, deb e rpm                | ✅ Released   |
+
 ---
 
 ## 🛠️ Inventário de Habilidades
@@ -102,6 +116,13 @@ const matheus: Developer = {
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Desktop & IA Tooling
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Banco de Dados & ORM
 
@@ -139,6 +160,7 @@ Next.js / React  ████████████████░░░░░
 Elixir / Phoenix █████████████░░░░░░░░░░░   55%    Synvia AI Backend
 MySQL / Postgres ████████████████████░░░░   78%    Bancos relacionais
 Docker / Cloud   ███████████████░░░░░░░░░   62%    Infraestrutura
+Electron         ████████████░░░░░░░░░░░░   50%    Claude Manager (open source)
 Git / CI/CD      ████████████████████░░░░   78%    Versionamento & Deploy
 ```
 
